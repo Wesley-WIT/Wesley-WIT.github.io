@@ -1,3 +1,4 @@
 # Wesley-WIT.github.io
 
-Wesley Demaine - CA3 Web Design Semester 2
+<h2>Wesley Demaine</h2>
+<p>CA3 Web Design Semester 2</p>
