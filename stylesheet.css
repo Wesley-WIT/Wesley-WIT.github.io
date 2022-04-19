@@ -57,14 +57,16 @@ html::-webkit-scrollbar-track {
 
 #faq-bg {
     background-image: url("assets/background2.jpg")!important;
+    padding-bottom: 8%!important;
 }
 
 #book-bg {
-    background-image: url("assets/calendar.jpg")!important
+    background-image: url("assets/calendar.jpg")!important;
+    padding-bottom: 4%!important;
 }
 
 #about-bg {
-    padding-bottom: 10%;
+    padding-bottom: 6%;
 }
 
 
@@ -434,7 +436,7 @@ input[type=text]:focus {
 #homebox {
     background-color: #000000a4;
     border-radius: 3px;
-    padding: 10%;
+    padding: 8%;
     backdrop-filter: blur(5px);
     margin-top: 10%;
 }
