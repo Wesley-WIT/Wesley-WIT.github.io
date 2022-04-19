@@ -43,7 +43,7 @@ html::-webkit-scrollbar-track {
 /* homepage backgrounds */
 
 .section-one {
-    background-image: url("assets/background.jpg");
+    background-image: url("../assets/background.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -51,17 +51,17 @@ html::-webkit-scrollbar-track {
 }
 
 #home-bg {
-    background-image: url("assets/background3.jpg")!important;
+    background-image: url("../assets/background3.jpg")!important;
     padding-bottom: 10%;
 }
 
 #faq-bg {
-    background-image: url("assets/background2.jpg")!important;
+    background-image: url("../assets/background2.jpg")!important;
     padding-bottom: 8%!important;
 }
 
 #book-bg {
-    background-image: url("assets/calendar.jpg")!important;
+    background-image: url("../assets/calendar.jpg")!important;
     padding-bottom: 4%!important;
 }
 
@@ -185,45 +185,45 @@ h3 {
 }
 
 #lesson-1 {
-    background: linear-gradient( #00000025, #0000004a), url("assets/lesson1.jpg");
+    background: linear-gradient( #00000025, #0000004a), url("../assets/lesson1.jpg");
 }
 
 #lesson-1:hover {
-    background: linear-gradient( #3dcc8563, #3dcc8563), url("assets/lesson1.jpg")!important;
+    background: linear-gradient( #3dcc8563, #3dcc8563), url("../assets/lesson1.jpg")!important;
     background-position: center!important;
     background-repeat: no-repeat!important;
     background-size: cover!important;
 }
 
 #lesson-2 {
-    background: linear-gradient( #00000025, #0000004a), url("assets/lesson2.jpg");
+    background: linear-gradient( #00000025, #0000004a), url("../assets/lesson2.jpg");
 }
 
 #lesson-2:hover {
-    background: linear-gradient( #3dcc8563, #3dcc8563), url("assets/lesson2.jpg")!important;
+    background: linear-gradient( #3dcc8563, #3dcc8563), url("../assets/lesson2.jpg")!important;
     background-position: center!important;
     background-repeat: no-repeat!important;
     background-size: cover!important;
 }
 
 #lesson-3 {
-    background: linear-gradient( #00000025, #0000004a), url("assets/lesson3.jpg");
+    background: linear-gradient( #00000025, #0000004a), url("../assets/lesson3.jpg");
     ;
 }
 
 #lesson-3:hover {
-    background: linear-gradient( #3dcc8563, #3dcc8563), url("assets/lesson3.jpg")!important;
+    background: linear-gradient( #3dcc8563, #3dcc8563), url("../assets/lesson3.jpg")!important;
     background-position: center!important;
     background-repeat: no-repeat!important;
     background-size: cover!important;
 }
 
 #lesson-4 {
-    background: linear-gradient( #00000025, #0000004a), url("assets/lesson4.jpg");
+    background: linear-gradient( #00000025, #0000004a), url("../assets/lesson4.jpg");
 }
 
 #lesson-4:hover {
-    background: linear-gradient( #3dcc8563, #3dcc8563), url("assets/lesson4.jpg")!important;
+    background: linear-gradient( #3dcc8563, #3dcc8563), url("../assets/lesson4.jpg")!important;
     background-position: center!important;
     background-repeat: no-repeat!important;
     background-size: cover!important;
