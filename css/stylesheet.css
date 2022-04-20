@@ -14,9 +14,9 @@
 /* Scrollbar */
 
 html {
-    background-color: #515151;
+    background-color: #6a6a6a;
     scrollbar-width: normal;
-    scrollbar-color: #000000 #515151;
+    scrollbar-color: #3dcc85 #3dcc85;
 }
 
 html::-webkit-scrollbar {
